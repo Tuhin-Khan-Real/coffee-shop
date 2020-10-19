@@ -1,0 +1,227 @@
+body{
+    margin: 0px;
+}
+.header{
+    background-color: #3A4A58;
+}
+.top{
+    height: 80px;
+    width: 40%;
+    margin: auto;
+}
+.icon {
+    background-image: url(icon.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 40px;
+    height: 50px;
+    float: left;
+    margin: 6px 15px 0px 18%;
+}
+.top h2{
+    font-family: 'Gloria Hallelujah', cursive;
+    display: inline;
+    margin: 0px;
+    font-size: 32px;
+    color: white;
+    padding-bottom: 5px;
+}
+.beens{
+    width: 640px;
+    height: 425px;
+    margin: auto;
+    background-image: url(chilling-cafe-01.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.coffee{
+    background: white;
+    width: 640px;
+    margin: auto;
+}
+.coffee h2{
+    margin: 0px ;
+    text-align: center;
+    padding: 30px 0px;
+    font-size: 28px;
+    color: #996633;
+    font-family: 'Open Sans', sans-serif;
+}
+table{
+    width: 95%;
+    padding: 0px;
+    margin: auto;
+    border-spacing: 0;
+    padding-bottom: 30px;
+}
+tr{
+    height: 50px;
+    font-family: 'Open Sans', sans-serif;
+    border-collapse: collapse;
+}
+th{
+   background-color: #C4CDD6;
+}
+td{
+    text-align: center;
+}
+tr:nth-child(2n+1){
+    background-color:#E5E8ED ;
+}
+td:nth-child(1){
+    text-align: left;
+}
+.t{
+    padding-left: 8px;;
+}
+.special h2{
+    margin: 0px ;
+    text-align: center;
+    padding: 30px 0px;
+    font-size: 28px;
+    color: #996633;
+    font-family: 'Open Sans', sans-serif;
+}
+.special{
+    background: white;
+    width: 640px;
+    margin: auto;
+}
+.img{
+    width: 640px;
+    height: 185px;
+    margin: auto;
+}
+.pic1{
+    float: left;
+    width: 180px;
+    height: 180px;
+    background-image: url(chilling-cafe-11.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.pic2{
+    float: left;
+    width: 180px;
+    height: 180px;
+    background-image: url(chilling-cafe-12.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.pic3{
+    float: left;
+    width: 180px;
+    height: 180px;
+    background-image: url(chilling-cafe-13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.sp_txt{
+    width: 640px;
+    height: 110px;
+    margin: auto;
+    background-color: white;
+}    
+.txt1{
+    float: left;
+    width: 30%;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: lighter;
+}
+.txt2{
+    float: left;
+    width: 30%;
+    margin-left: 10px;
+    margin-right: 10px; 
+    text-align: center;
+    font-size: 18px;
+    font-weight: lighter;  
+}
+.txt3{
+    float: left;
+    width: 30%;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: lighter;
+}
+.about{
+    width: 640px;
+    margin: auto;
+    background-color: white;
+}
+.about h2{
+    margin-top: 0px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 28px;
+    color: #996633;
+    font-family: 'Open Sans', sans-serif;
+}
+.about p{
+    font-size: 20px;
+    width: 530px;
+    margin: auto;
+    padding-bottom: 10px;
+    color: #8c8c8c;
+    font-family: 'Open Sans', sans-serif;
+}
+.talk{
+    width: 640px;
+    height: 200px;
+    margin: auto;
+    background-color: white;
+}
+.talk h2{
+    margin-top: 0px;
+    text-align: center;
+    padding-top: 19px;
+    font-size: 28px;
+    color: #996633;
+    font-family: 'Open Sans', sans-serif;
+}
+.talk p{
+    font-size: 19px;
+    width: 530px;
+    margin: auto;
+    padding-bottom: 10px;
+    color: #8c8c8c;
+    font-family: 'Open Sans', sans-serif;
+}
+.talk a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 19px;
+    width: 530px;
+    margin: auto;
+    padding-bottom: 10px;
+}
+.talk a:hover{
+    color: #8c8c8c;
+}
+.copy{
+    width: 500px;
+    margin: auto;
+}
+.copy p{
+    font-size: 19px;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0px 0px 0px 40px;
+}

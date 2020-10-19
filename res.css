@@ -1,0 +1,324 @@
+@media only screen and (max-width: 992px) {
+    .header{
+        width: 100%;
+    }
+    .top{
+        width: 100%;
+        margin: 0px 20%;
+        padding-top: 30px;
+    }
+    
+}
+@media only screen and (max-width: 850px) {
+    .top {
+        width: 100%;
+        margin: 0px 12%;
+    }
+    .beens{
+        margin-right: 13%;
+    }
+    .coffee{
+        margin: 0px 0px 0px 100px;
+    }
+    .special{
+        margin: 0px 0px 0px 100px;
+    }
+    .sp_txt{
+        margin: 0px 0px 0px 100px;
+    }
+    .about{
+        margin: 0px 0px 0px 100px;
+    }
+    .talk{
+        margin: 0px 0px 0px 100px;
+    }
+    .copy{
+        margin: 0px 0px 0px 170px;
+    }
+    .copy p{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+}
+@media only screen and (max-width:768px) {
+    .top {
+        margin: 0px 6%;
+    }
+    .beens{
+        margin-right: 12%;
+    }
+    .coffee{
+        margin: 0px 0px 0px 36px;
+    }
+    .special{
+        margin: 0px 0px 0px 36px;
+    }
+    .sp_txt{
+        margin: 0px 0px 0px 36px;
+    }
+    .about{
+        margin: 0px 0px 0px 36px;
+    }
+    .talk{
+        margin: 0px 0px 0px 36px;
+    }
+    .copy{
+        margin: 0px 0px 0px 120px;
+    }
+    .copy p{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+}
+@media only screen and (max-width:680px) {
+    .top {
+        margin: 0px 3%;
+    }
+    .beens{
+        width: 560px;
+        margin-right: 13%;
+    }
+    .coffee{
+        width: 560px;
+        margin: 0px 0px 0px 32px;
+    }
+    .special{
+        width: 560px;
+        margin: 0px 0px 0px 32px;
+    }
+    .sp_txt{
+        width: 560px;
+        margin: 0px 0px 0px 32px;
+    }
+    .special .img .pic1,.pic2,.pic3{
+        width: 27%;
+        margin: 7px;
+    }
+    .txt1,.txt2,.txt3{
+        width: 29%;
+    }
+    .about{
+        width: 560px;
+        margin: 0px 0px 0px 32px;
+    }
+    .talk{
+        width: 560px;
+        margin: 0px 0px 0px 32px;
+    }
+    .copy{
+        margin: 0px 0px 0px 75px;
+    }
+    .copy p{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+}
+@media only screen and (max-width:568px) {
+    .header{
+        width: 100%;
+    }
+    .top {
+        margin: 0px 2%;
+    }
+    .beens{
+        width: 480px;
+        margin-right: 7%;
+    }
+    .coffee{
+        width: 480px;
+        margin: 0px 0px 0px 47px;
+    }
+    .special{
+        width: 480px;
+        margin: 0px 0px 0px 47px;
+    }
+    .sp_txt{
+        width: 480px;
+        margin: 0px 0px 0px 47px;
+    }
+    .special .img .pic1,.pic2,.pic3{
+        width: 23%;
+        margin: 6px;
+    }
+    .txt1,.txt2,.txt3{
+        width: 29%;
+    }
+    .about{
+        width: 480px;
+        margin: 0px 0px 0px 47px;
+    }
+    .about p{
+        width: 480px;
+        font-size: 16px;
+        text-align: center;
+    }
+    .talk{
+        width: 480px;
+        margin: 0px 0px 0px 47px;
+    }
+    .talk p{
+        width: 480px;
+        font-size: 16px;
+        text-align: center;
+    }
+    .copy{
+        margin: 0px 0px 0px 41px;
+    }
+    .copy p{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+}
+@media only screen and (max-width:420px) {
+    .top {
+        margin: 0px 2%;
+    }
+    .top h2{
+        font-size: 25px;
+    }
+    .icon {
+        width: 40px;
+        height: 34px;
+        margin: 6px 15px 0px 11%;
+    }
+    .beens{
+        width: 350px;
+        margin-right: 11%;
+    }
+    .coffee{
+        width: 350px;
+        margin: 0px 0px 0px 24px;
+    }
+    .coffee h2{
+        font-size: 16px;
+    }
+    table{
+        font-size: 11px;
+    }
+    .special{
+        width: 350px;
+        margin: 0px 0px 0px 24px;
+    }
+    .sp_txt{
+        width: 350px;
+        margin: 0px 0px 0px 24px;
+    }
+    .special h2{
+        font-size: 16px;
+    }
+    .special .img .pic1,.pic2,.pic3{
+        width: 16%;
+        margin: 7px;
+    }
+    .txt1,.txt2,.txt3{
+        width: 27%;
+    }
+    .txt1 h4,.txt2 h4,.txt3 h4{
+        font-size: 11px;
+    }
+    .about{
+        width: 350px;
+        margin: 0px 0px 0px 24px;
+    }
+    .about h2{
+        font-size: 16px;
+    }
+    .about p{
+        width: 350px;
+        font-size: 9px;
+        text-align: center;
+    }
+    .talk{
+        width: 350px;
+        height: 110px;
+        margin: 0px 0px 0px 24px;
+    }
+    .talk p{
+        width: 350px;
+        font-size: 9px;
+        text-align: center;
+    }
+    .talk h2{
+        font-size: 16px;
+    }
+    .talk a{
+        font-size: 9px;
+    }
+    .copy{
+        margin: 0px 0px 0px 46px;
+    }
+    .copy p{
+        font-size: 11px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+}
+@media only screen and (max-width:380px) {
+    .beens{
+        width: 350px;
+        margin: 0px 0px 0px 15px;
+    }
+    .coffee{
+        margin: 0px 0px 0px 15px;
+    }
+    .special{
+        margin: 0px 0px 0px 15px;
+    }
+    .sp_txt{
+        margin: 0px 0px 0px 15px;
+    }
+    .about{
+        margin: 0px 0px 0px 15px;
+    }
+    .talk{
+        margin: 0px 0px 0px 15px;
+    }
+}
+@media only screen and (max-width:320px) {
+    .top{
+        width: 100%;
+        height: 50px;
+        padding-top: 15px;
+    }
+    .top h2{
+        font-size: 22px;
+    }
+    .icon{
+        width: 35px;
+        margin: 3px 10px 0px 9%;
+    }
+    .beens{
+        width: 290px;
+    }
+    .coffee{
+        width: 290px;
+    }
+    .special{
+        width: 290px;
+    }
+    .img{
+        width: 515px;
+    }
+    .sp_txt{
+        width: 290px;
+    }
+    .txt1, .txt2, .txt3 {
+        width: 26%;
+    }    
+    .about{
+        width: 290px;
+    }
+    .about p{
+        width: 290px;
+    }
+    .talk{
+        width: 290px;
+    }
+    .talk p{
+        width: 290px;
+    }
+    .copy{
+        width: 290px;
+        margin: 0px 0px 0px 2px;
+    }
+}
